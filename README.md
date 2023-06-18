@@ -1,2 +1,2 @@
 # fastapi-tutorial
- FastAPI quick start tutorial
+FastAPI quick start tutorial
