@@ -43,5 +43,9 @@ todos = [
     {
         "id": "2",
         "Activity": "Writing 3 pages of my new book at 2:00 PM."
+    },
+    {
+        "id": "3",
+        "Activity": "Played soccer for 1 hour at 7:00 PM."
     }
 ]
